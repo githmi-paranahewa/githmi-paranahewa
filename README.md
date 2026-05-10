@@ -22,7 +22,8 @@
 ###
 
 <h3 align="left">👩‍💻  About Me</h3>
-an IT undergraduate passionate about the IT industry. I enjoy working on innovative projects that blend problem-solving with creativity.<br><br>🚀 I thrive on learning new concepts, tackling complex challenges, and improving user experiences through technology.<br><br>💡 Always curious and eager to grow, I believe in continuous learning, collaboration, and constantly striving to be the best version of myself.<br><br>✨ Feel free to explore my work and connect!
+I am a Lecturer and researcher passionate about human-centered AI, natural language processing, and machine learning. My work focuses on designing and studying AI systems that enhance human wellbeing and improve the way people interact with intelligent technologies.
+<br><br>💡 Always curious and eager to grow, I believe in continuous learning, collaboration, and constantly striving to be the best version of myself.<br><br>✨ Feel free to explore my work and connect!
 
 
 <h3 align="left">💻🛠  Tech Stack</h3>
